@@ -1,0 +1,11 @@
+{
+  "name": "ColdFusion QuickDocs",
+  "version": "1.0.1",
+  "description": "One-click search on CFQuickDocs for entire ColdFusion Tags and Functions references for ColdFusion Dudes.",
+   "icons": { "128": "icon_048.png" },
+  "browser_action": {
+  	"default_title": "ColdFusion QuickDocs",
+    "default_icon": "icon_032.png",
+	 "popup": "cfquickdocs.html"
+  } 
+}
